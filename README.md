@@ -5,4 +5,4 @@ Hi, my name is Ishani  and I am the founder of the Women's Alliance in STEM and 
 Topics Covered: 
 - Hodgkin Huxley Model (simplified version)
 - The Leaky Integrate-and-Fire (LIF) model
-- 
+- Threshold based neuron firing 
